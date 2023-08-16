@@ -1,8 +1,8 @@
 {
-  "name": "goal-com-section-hide",
-  "displayName": "Goal com section hide",
+  "name": "goaldotcom-mod",
+  "displayName": "Goal.com mod for better user experience",
   "version": "0.0.1",
-  "description": "Restructure layout of goal.com scores page to only needed sections",
+  "description": "Unclog layout of goal.com scores page to only needed sections",
   "author": "Adekunle Oseni",
   "scripts": {
     "dev": "plasmo dev",
